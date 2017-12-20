@@ -8,6 +8,8 @@ app-recent-emails {
 }
 ul {
   padding: 0;
+  margin: 0;
+  z-index: 9999; 
 }
 .rad-sidebar[_ngcontent-c1]   li[_ngcontent-c1]   a[_ngcontent-c1]    > span[_ngcontent-c1]{
   display: none;
