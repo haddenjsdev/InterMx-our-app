@@ -941,6 +941,7 @@ a:active {
 
 .rad-list-group {
   position: relative;
+  margin-left: 1em;
 }
 
 .rad-list-group.group:before {
